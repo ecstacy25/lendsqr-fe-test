@@ -37,6 +37,10 @@ To start project in development mode
 ### React
 
 ### TypeScript
+
 ### SCSS
 
 ### Jest
+
+Here's a google document detailing why the above Languages & tools were used:
+https://docs.google.com/document/d/1t3RpCsjfnOfTvm2sd9Tx_uLjvDb_fuAQHMbIJGH29n0/edit?usp=sharing
