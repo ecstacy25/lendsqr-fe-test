@@ -10,23 +10,23 @@ const UserInfoCard:FC<Props> = () => {
 			<div className='user-info-main'>
 				<div>
 					<p>FULL NAME</p>
-					<p>Ibiam Arua</p>
+					<p>Grace Effiom</p>
 				</div>
 				<div>
 					<p>Phone Number</p>
-					<p>07066026820</p>
+					<p>07060780922</p>
 				</div>
 				<div>
 					<p>Email Address</p>
-					<p>ibiamjnr9@gmail.com</p>
+					<p>grace@gmail.com</p>
 				</div>
 				<div>
 					<p>Bvn</p>
-					<p>0706602682</p>
+					<p>07060780922</p>
 				</div>
 				<div>
 					<p>Gender</p>
-					<p>Male</p>
+					<p>Female</p>
 				</div>
 				<div>
 					<p>Marital status</p>
