@@ -4,7 +4,7 @@
 
 Lendsqr is a Service Solution that powers lenders to build, launch, and scale their digital lending business across multiple channels, at the lowest cost.
 
-We provide our lenders from various industries with a cloud lending platform to make the activities of your LaaS business run smoothly by implementing novel solutions and superior domain expertise. We’re passionate about making lenders succeed.
+We provide our lenders from various industries with a cloud lending platform to make the activities of your business run smoothly by implementing novel solutions and superior domain expertise. We’re passionate about making lenders succeed.
 
 ## Requirements
 
